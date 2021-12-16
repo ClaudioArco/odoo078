@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_odoo078_moviles078_usuario,odoo078.moviles078.usuario,model_odoo078_moviles078,odoo078.group_odoo078_usuario,1,0,0,0
+access_odoo078_moviles078_administrador,odoo078.moviles078.administrador,model_odoo078_moviles078,odoo078.group_odoo078_administrador,1,1,1,1_
